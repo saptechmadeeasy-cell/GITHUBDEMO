@@ -16,6 +16,6 @@ method if_oo_adt_classrun~main.
 
 "logic1
 "logic2
-
+"logic 3
 endMETHOD.
 ENDCLASS.
